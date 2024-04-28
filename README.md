@@ -9,7 +9,7 @@ This repository tracks the latest research on representation engineering (RepE),
 >
 > If you want to add a new paper, feel free to either open an issue or create a pull request.
 
-*Note that representation engineering is still a new framework, so the current categorization below only represents my subjective view and bases on my own understanding of the techniques.*
+*Note that representation engineering is a relatively new framework, so the categorization below reflects my subjective understanding of the techniques. The first table includes work that explicitly uses the term "representation engineering." Other closely related work is grouped in the later tables.*
 
 ## Table of Contents
 
