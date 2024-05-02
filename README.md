@@ -5,7 +5,7 @@
 This repository tracks the latest research on representation engineering (RepE), which was originally introduced by [Zou et al. (2023)](https://arxiv.org/abs/2310.01405). The goal is to offer a comprehensive list of papers and resources relevant to the topic. Work that falls under the umbrella of representation engineering are also included.
 
 > [!NOTE]
-> If you believe your paper on LLM unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue, and I will address it as soon as possible.
+> If you believe your paper on representation engineering (or related topics) is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue, and I will address it as soon as possible.
 >
 > If you want to add a new paper, feel free to either open an issue or create a pull request.
 
