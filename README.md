@@ -1,6 +1,12 @@
 # Awesome Representation Engineering
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/chrisliu298/awesome-representation-engineering)
+<p align="center">
+<a href=""> <img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a>
+<a href=""> <img src="https://img.shields.io/github/stars/chrisliu298/awesome-representation-engineering?style=flat-square&logo=github" alt="GitHub stars"></a>
+<a href=""> <img src="https://img.shields.io/github/forks/chrisliu298/awesome-representation-engineering?style=flat-square&logo=github" alt="GitHub forks"></a>
+<a href=""> <img src="https://img.shields.io/github/issues/chrisliu298/awesome-representation-engineering?style=flat-square&logo=github" alt="GitHub issues"></a>
+<a href=""> <img src="https://img.shields.io/github/last-commit/chrisliu298/awesome-representation-engineering?style=flat-square&logo=github" alt="GitHub Last commit"></a>
+</p>
 
 This repository tracks the latest research on representation engineering (RepE), which was originally introduced by [Zou et al. (2023)](https://arxiv.org/abs/2310.01405). The goal is to offer a comprehensive list of papers and resources relevant to the topic. Work that falls under the umbrella of representation engineering are also included.
 
