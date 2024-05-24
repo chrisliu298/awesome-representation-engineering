@@ -30,45 +30,125 @@ Also:
 
 ### Representation engineering
 
-| Paper                                                                                                                        | Author(s)    | Year-Month | Venue | Code                                                                            |
-| ---------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------- | ----- | ------------------------------------------------------------------------------- |
-| [Towards General Conceptual Model Editing via Adversarial Representation Engineering](https://arxiv.org/abs/2404.13752)      | Zhang et al. | 2024-04    | -     | [GitHub](https://github.com/Zhang-Yihao/Adversarial-Representation-Engineering) |
-| [Towards Uncovering How Large Language Model Works: An Explainability Perspective](https://arxiv.org/abs/2402.10688)         | Zhao et al.  | 2024-02    | -     | -                                                                               |
-| [Tradeoffs Between Alignment and Helpfulness in Language Models](https://arxiv.org/abs/2401.16332)                           | Wolf et al.  | 2024-01    | -     | -                                                                               |
-| [Open the Pandora's Box of LLMs: Jailbreaking LLMs through Representation Engineering](https://arxiv.org/abs/2401.06824)     | Li et al.    | 2024-01    | -     | -                                                                               |
-| [Aligning Large Language Models with Human Preferences through Representation Engineering](https://arxiv.org/abs/2312.15997) | Liu et al.   | 2023-12    | -     | -                                                                               |
-| [Representation Engineering: A Top-Down Approach to AI Transparency](https://arxiv.org/abs/2310.01405)                       | Zou et al.   | 2023-10    | -     | [GitHub](https://github.com/andyzoujm/representation-engineering)               |
+- [Towards General Conceptual Model Editing via Adversarial Representation Engineering](https://arxiv.org/abs/2404.13752)
+  - Author(s): Zhang et al.
+  - Year-Month: 2024-04
+  - Venue: -
+  - Code: [GitHub](https://github.com/Zhang-Yihao/Adversarial-Representation-Engineering)
+- [Towards Uncovering How Large Language Model Works: An Explainability Perspective](https://arxiv.org/abs/2402.10688)
+  - Author(s): Zhao et al.
+  - Year-Month: 2024-02
+  - Venue: -
+  - Code: -
+- [Tradeoffs Between Alignment and Helpfulness in Language Models](https://arxiv.org/abs/2401.16332)
+  - Author(s): Wolf et al.
+  - Year-Month: 2024-01
+  - Venue: -
+  - Code: -
+- [Open the Pandora's Box of LLMs: Jailbreaking LLMs through Representation Engineering](https://arxiv.org/abs/2401.06824)
+  - Author(s): Li et al.
+  - Year-Month: 2024-01
+  - Venue: -
+  - Code: -
+- [Aligning Large Language Models with Human Preferences through Representation Engineering](https://arxiv.org/abs/2312.15997)
+  - Author(s): Liu et al.
+  - Year-Month: 2023-12
+  - Venue: -
+  - Code: -
+- [Representation Engineering: A Top-Down Approach to AI Transparency](https://arxiv.org/abs/2310.01405)
+  - Author(s): Zou et al.
+  - Year-Month: 2023-10
+  - Venue: -
+  - Code: [GitHub](https://github.com/andyzoujm/representation-engineering)
 
 ### Steering vectors
 
-| Paper                                                                                                                                       | Author(s)           | Year-Month | Venue | Code                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---------- | ----- | --------------------------------------------------------------------- |
-| [Activation Steering for Robust Type Prediction in CodeLLMs](https://arxiv.org/abs/2404.01903)                                              | Lucchetti and Guha  | 2024-04    | -     | -                                                                     |
-| [Extending Activation Steering to Broad Skills and Multiple Behaviours](https://arxiv.org/abs/2403.05767)                                   | van der Weij et al. | 2024-03    | -     | [GitHub](https://github.com/TeunvdWeij/extending-activation-addition) |
-| [Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models](https://arxiv.org/abs/2402.19465)       | Qian et al.         | 2024-02    | -     | [GitHub](https://github.com/ChnQ/TracingLLM)                          |
-| [MiMiC: Minimally Modified Counterfactuals in the Representation Space](https://arxiv.org/abs/2402.09631)                                   | Singh et al.        | 2024-02    | -     | -                                                                     |
-| [Investigating Bias Representations in Llama 2 Chat via Activation Steering](https://arxiv.org/abs/2402.00402)                              | Lu and Rimsky       | 2024-02    | -     | -                                                                     |
-| [InferAligner: Inference-Time Alignment for Harmlessness through Cross-Model Guidance](https://arxiv.org/abs/2401.11206)                    | Wang et al.         | 2024-01    | -     | [GitHub](https://github.com/Jihuai-wpy/InferAligner)                  |
-| [Steering Llama 2 via Contrastive Activation Addition](https://arxiv.org/abs/2312.06681)                                                    | Rimsky et al.       | 2024-12    | -     | [GitHub](https://github.com/nrimsky/CAA)                              |
-| [Improving Activation Steering in Language Models with Mean-Centring](https://arxiv.org/abs/2312.03813)                                     | Jorgensen et al.    | 2023-12    | -     | -                                                                     |
-| [Backdoor Activation Attack: Attack Large Language Models using Activation Steering for Safety-Alignment](https://arxiv.org/abs/2311.09433) | Wang and Shu        | 2023-11    | -     | [GitHub](https://github.com/wang2226/Backdoor-Activation-Attack)      |
-| [The Linear Representation Hypothesis and the Geometry of Large Language Models](https://arxiv.org/abs/2311.03658)                          | Park et al.         | 2023-11    | -     | [GitHub](https://github.com/KihoPark/linear_rep_geometry)             |
-| [Activation Addition: Steering Language Models Without Optimization](https://arxiv.org/abs/2308.10248)                                      | Turner              | 2023-08    | -     | [GitHub](https://github.com/montemac/activation_additions)            |
-| [Extracting Latent Steering Vectors from Pretrained Language Models](https://arxiv.org/abs/2205.05124)                                      | Subramani et al.    | 2022-05    | -     | [GitHub](https://github.com/nishantsubramani/steering_vectors)        |
+- [Activation Steering for Robust Type Prediction in CodeLLMs](https://arxiv.org/abs/2404.01903)
+  - Author(s): Lucchetti and Guha
+  - Year-Month: 2024-04
+  - Venue: -
+  - Code: -
+- [Extending Activation Steering to Broad Skills and Multiple Behaviours](https://arxiv.org/abs/2403.05767)
+  - Author(s): van der Weij et al.
+  - Year-Month: 2024-03
+  - Venue: -
+  - Code: [GitHub](https://github.com/TeunvdWeij/extending-activation-addition)
+- [Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models](https://arxiv.org/abs/2402.19465)
+  - Author(s): Qian et al.
+  - Year-Month: 2024-02
+  - Venue: -
+  - Code: [GitHub](https://github.com/ChnQ/TracingLLM)
+- [MiMiC: Minimally Modified Counterfactuals in the Representation Space](https://arxiv.org/abs/2402.09631)
+  - Author(s): Singh et al.
+  - Year-Month: 2024-02
+  - Venue: -
+  - Code: -
+- [Investigating Bias Representations in Llama 2 Chat via Activation Steering](https://arxiv.org/abs/2402.00402)
+  - Author(s): Lu and Rimsky
+  - Year-Month: 2024-02
+  - Venue: -
+  - Code: -
+- [InferAligner: Inference-Time Alignment for Harmlessness through Cross-Model Guidance](https://arxiv.org/abs/2401.11206)
+  - Author(s): Wang et al.
+  - Year-Month: 2024-01
+  - Venue: -
+  - Code: [GitHub](https://github.com/Jihuai-wpy/InferAligner)
+- [Steering Llama 2 via Contrastive Activation Addition](https://arxiv.org/abs/2312.06681)
+  - Author(s): Rimsky et al.
+  - Year-Month: 2024-12
+  - Venue: -
+  - Code: [GitHub](https://github.com/nrimsky/CAA)
+- [Improving Activation Steering in Language Models with Mean-Centring](https://arxiv.org/abs/2312.03813)
+  - Author(s): Jorgensen et al.
+  - Year-Month: 2023-12
+  - Venue: -
+  - Code: -
+- [Backdoor Activation Attack: Attack Large Language Models using Activation Steering for Safety-Alignment](https://arxiv.org/abs/2311.09433)
+  - Author(s): Wang and Shu
+  - Year-Month: 2023-11
+  - Venue: -
+  - Code: [GitHub](https://github.com/wang2226/Backdoor-Activation-Attack)
+- [The Linear Representation Hypothesis and the Geometry of Large Language Models](https://arxiv.org/abs/2311.03658)
+  - Author(s): Park et al.
+  - Year-Month: 2023-11
+  - Venue: -
+  - Code: [GitHub](https://github.com/KihoPark/linear_rep_geometry)
+- [Activation Addition: Steering Language Models Without Optimization](https://arxiv.org/abs/2308.10248)
+  - Author(s): Turner
+  - Year-Month: 2023-08
+  - Venue: -
+  - Code: [GitHub](https://github.com/montemac/activation_additions)
+- [Extracting Latent Steering Vectors from Pretrained Language Models](https://arxiv.org/abs/2205.05124)
+  - Author(s): Subramani et al.
+  - Year-Month: 2022-05
+  - Venue: -
+  - Code: [GitHub](https://github.com/nishantsubramani/steering_vectors)
 
 ### Concept activation vectors
 
-| Paper                                                                                                             | Author(s)          | Year-Month | Venue     | Code |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------ | ---------- | --------- | ---- |
-| [Uncovering Safety Risks in Open-source LLMs through Concept Activation Vector](https://arxiv.org/abs/2404.12038) | Xu et al.          | 2024-04    | -         | -    |
-| [Explaining Explainability: Understanding Concept Activation Vectors](https://arxiv.org/abs/2404.03713)           | Nicolson et al.    | 2024-04    | -         | -    |
-| [Demystifying Embedding Spaces using Large Language Models](https://arxiv.org/abs/2310.04475)                     | Tennenholtz et al. | 2023-10    | ICLR 2024 | -    |
+- [Uncovering Safety Risks in Open-source LLMs through Concept Activation Vector](https://arxiv.org/abs/2404.12038)
+  - Author(s): Xu et al.
+  - Year-Month: 2024-04
+  - Venue: -
+  - Code: -
+- [Explaining Explainability: Understanding Concept Activation Vectors](https://arxiv.org/abs/2404.03713)
+  - Author(s): Nicolson et al.
+  - Year-Month: 2024-04
+  - Venue: -
+  - Code: -
+- [Demystifying Embedding Spaces using Large Language Models](https://arxiv.org/abs/2310.04475)
+  - Author(s): Tennenholtz et al.
+  - Year-Month: 2023-10
+  - Venue: ICLR 2024
+  - Code: -
 
 ### Other relevant papers
 
-| Paper                                                                                                                                               | Author(s)         | Year-Month | Venue | Code                                                     |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- | ----- | -------------------------------------------------------- |
-| [The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets](https://arxiv.org/abs/2310.06824) | Marks and Tegmark | 2023-10    | -     | [GitHub](https://github.com/saprmarks/geometry-of-truth) |
+- [The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets](https://arxiv.org/abs/2310.06824)
+  - Author(s): Marks and Tegmark
+  - Year-Month: 2023-10
+  - Venue: -
+  - Code: [GitHub](https://github.com/saprmarks/geometry-of-truth)
 
 ## Blog Posts
 
