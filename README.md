@@ -32,32 +32,32 @@ Also:
 
 - [Towards General Conceptual Model Editing via Adversarial Representation Engineering](https://arxiv.org/abs/2404.13752)
   - Author(s): Yihao Zhang, Zeming Wei, Jun Sun, Meng Sun
-  - Year-Month: 2024-04
+  - Date: 2024-04
   - Venue: -
   - Code: [GitHub](https://github.com/Zhang-Yihao/Adversarial-Representation-Engineering)
 - [Towards Uncovering How Large Language Model Works: An Explainability Perspective](https://arxiv.org/abs/2402.10688)
   - Author(s): Haiyan Zhao, Fan Yang, Bo Shen, Himabindu Lakkaraju, Mengnan Du
-  - Year-Month: 2024-02
+  - Date: 2024-02
   - Venue: -
   - Code: -
 - [Tradeoffs Between Alignment and Helpfulness in Language Models](https://arxiv.org/abs/2401.16332)
   - Author(s): Yotam Wolf, Noam Wies, Dorin Shteyman, Binyamin Rothberg, Yoav Levine, Amnon Shashua
-  - Year-Month: 2024-01
+  - Date: 2024-01
   - Venue: -
   - Code: -
 - [Open the Pandora's Box of LLMs: Jailbreaking LLMs through Representation Engineering](https://arxiv.org/abs/2401.06824)
   - Author(s): Tianlong Li, Shihan Dou, Wenhao Liu, Muling Wu, Changze Lv, Xiaoqing Zheng, Xuanjing Huang
-  - Year-Month: 2024-01
+  - Date: 2024-01
   - Venue: -
   - Code: -
 - [Aligning Large Language Models with Human Preferences through Representation Engineering](https://arxiv.org/abs/2312.15997)
   - Author(s): Wenhao Liu, Xiaohua Wang, Muling Wu, Tianlong Li, Changze Lv, Zixuan Ling, Jianhao Zhu, Cenyuan Zhang, Xiaoqing Zheng, Xuanjing Huang
-  - Year-Month: 2023-12
+  - Date: 2023-12
   - Venue: -
   - Code: -
 - [Representation Engineering: A Top-Down Approach to AI Transparency](https://arxiv.org/abs/2310.01405)
   - Author(s): Andy Zou, Long Phan, Sarah Chen, James Campbell, Phillip Guo, Richard Ren, Alexander Pan, Xuwang Yin, Mantas Mazeika, Ann-Kathrin Dombrowski, Shashwat Goel, Nathaniel Li, Michael J. Byun, Zifan Wang, Alex Mallen, Steven Basart, Sanmi Koyejo, Dawn Song, Matt Fredrikson, J. Zico Kolter, Dan Hendrycks
-  - Year-Month: 2023-10
+  - Date: 2023-10
   - Venue: -
   - Code: [GitHub](https://github.com/andyzoujm/representation-engineering)
 
@@ -65,62 +65,62 @@ Also:
 
 - [Activation Steering for Robust Type Prediction in CodeLLMs](https://arxiv.org/abs/2404.01903)
   - Author(s): Francesca Lucchetti, Arjun Guha
-  - Year-Month: 2024-04
+  - Date: 2024-04
   - Venue: -
   - Code: -
 - [Extending Activation Steering to Broad Skills and Multiple Behaviours](https://arxiv.org/abs/2403.05767)
   - Author(s): Teun van der Weij, Massimo Poesio, Nandi Schoots
-  - Year-Month: 2024-03
+  - Date: 2024-03
   - Venue: -
   - Code: [GitHub](https://github.com/TeunvdWeij/extending-activation-addition)
 - [Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models](https://arxiv.org/abs/2402.19465)
   - Author(s): Chen Qian, Jie Zhang, Wei Yao, Dongrui Liu, Zhenfei Yin, Yu Qiao, Yong Liu, Jing Shao
-  - Year-Month: 2024-02
+  - Date: 2024-02
   - Venue: -
   - Code: [GitHub](https://github.com/ChnQ/TracingLLM)
 - [MiMiC: Minimally Modified Counterfactuals in the Representation Space](https://arxiv.org/abs/2402.09631)
   - Author(s): Shashwat Singh, Shauli Ravfogel, Jonathan Herzig, Roee Aharoni, Ryan Cotterell, Ponnurangam Kumaraguru
-  - Year-Month: 2024-02
+  - Date: 2024-02
   - Venue: -
   - Code: -
 - [Investigating Bias Representations in Llama 2 Chat via Activation Steering](https://arxiv.org/abs/2402.00402)
   - Author(s): Dawn Lu, Nina Rimsky
-  - Year-Month: 2024-02
+  - Date: 2024-02
   - Venue: -
   - Code: -
 - [InferAligner: Inference-Time Alignment for Harmlessness through Cross-Model Guidance](https://arxiv.org/abs/2401.11206)
   - Author(s): Pengyu Wang, Dong Zhang, Linyang Li, Chenkun Tan, Xinghao Wang, Ke Ren, Botian Jiang, Xipeng Qiu
-  - Year-Month: 2024-01
+  - Date: 2024-01
   - Venue: -
   - Code: [GitHub](https://github.com/Jihuai-wpy/InferAligner)
 - [Steering Llama 2 via Contrastive Activation Addition](https://arxiv.org/abs/2312.06681)
   - Author(s): Nina Rimsky, Nick Gabrieli, Julian Schulz, Meg Tong, Evan Hubinger, Alexander Matt Turner
-  - Year-Month: 2024-12
+  - Date: 2024-12
   - Venue: -
   - Code: [GitHub](https://github.com/nrimsky/CAA)
 - [Improving Activation Steering in Language Models with Mean-Centring](https://arxiv.org/abs/2312.03813)
   - Author(s): Ole Jorgensen, Dylan Cope, Nandi Schoots, Murray Shanahan
-  - Year-Month: 2023-12
+  - Date: 2023-12
   - Venue: -
   - Code: -
 - [Backdoor Activation Attack: Attack Large Language Models using Activation Steering for Safety-Alignment](https://arxiv.org/abs/2311.09433)
   - Author(s): Haoran Wang, Kai Shu
-  - Year-Month: 2023-11
+  - Date: 2023-11
   - Venue: -
   - Code: [GitHub](https://github.com/wang2226/Backdoor-Activation-Attack)
 - [The Linear Representation Hypothesis and the Geometry of Large Language Models](https://arxiv.org/abs/2311.03658)
   - Author(s): Kiho Park, Yo Joong Choe, Victor Veitch
-  - Year-Month: 2023-11
+  - Date: 2023-11
   - Venue: -
   - Code: [GitHub](https://github.com/KihoPark/linear_rep_geometry)
 - [Activation Addition: Steering Language Models Without Optimization](https://arxiv.org/abs/2308.10248)
   - Author(s): Alexander Matt Turner, Lisa Thiergart, David Udell, Gavin Leech, Ulisse Mini, Monte MacDiarmid
-  - Year-Month: 2023-08
+  - Date: 2023-08
   - Venue: -
   - Code: [GitHub](https://github.com/montemac/activation_additions)
 - [Extracting Latent Steering Vectors from Pretrained Language Models](https://arxiv.org/abs/2205.05124)
   - Author(s): Nishant Subramani, Nivedita Suresh, Matthew E. Peters
-  - Year-Month: 2022-05
+  - Date: 2022-05
   - Venue: -
   - Code: [GitHub](https://github.com/nishantsubramani/steering_vectors)
 
@@ -128,17 +128,17 @@ Also:
 
 - [Uncovering Safety Risks in Open-source LLMs through Concept Activation Vector](https://arxiv.org/abs/2404.12038)
   - Author(s): Zhihao Xu, Ruixuan Huang, Xiting Wang, Fangzhao Wu, Jing Yao, Xing Xie
-  - Year-Month: 2024-04
+  - Date: 2024-04
   - Venue: -
   - Code: -
 - [Explaining Explainability: Understanding Concept Activation Vectors](https://arxiv.org/abs/2404.03713)
   - Author(s): Angus Nicolson, Lisa Schut, J. Alison Noble, Yarin Gal
-  - Year-Month: 2024-04
+  - Date: 2024-04
   - Venue: -
   - Code: -
 - [Demystifying Embedding Spaces using Large Language Models](https://arxiv.org/abs/2310.04475)
   - Author(s): Guy Tennenholtz, Yinlam Chow, Chih-Wei Hsu, Jihwan Jeong, Lior Shani, Azamat Tulepbergenov, Deepak Ramachandran, Martin Mladenov, Craig Boutilier
-  - Year-Month: 2023-10
+  - Date: 2023-10
   - Venue: ICLR 2024
   - Code: -
 
@@ -146,7 +146,7 @@ Also:
 
 - [The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets](https://arxiv.org/abs/2310.06824)
   - Author(s): Samuel Marks, Max Tegmark
-  - Year-Month: 2023-10
+  - Date: 2023-10
   - Venue: -
   - Code: [GitHub](https://github.com/saprmarks/geometry-of-truth)
 
