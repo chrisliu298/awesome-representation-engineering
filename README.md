@@ -30,6 +30,11 @@ Also:
 
 ### Representation engineering
 
+- [ConTrans: Weak-to-Strong Alignment Engineering via Concept Transplantation](https://arxiv.org/abs/2405.13578)
+  - Author(s): Weilong Dong, Xinwei Wu, Renren Jin, Shaoyang Xu, Deyi Xiong
+  - Date: 2024-05
+  - Venue: -
+  - Code: -
 - [Towards General Conceptual Model Editing via Adversarial Representation Engineering](https://arxiv.org/abs/2404.13752)
   - Author(s): Yihao Zhang, Zeming Wei, Jun Sun, Meng Sun
   - Date: 2024-04
