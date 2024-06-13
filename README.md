@@ -36,6 +36,21 @@ Also:
 
 ### Representation engineering
 
+- [Legend: Leveraging Representation Engineering to Annotate Safety Margin for Preference Datasets](https://arxiv.org/abs/2406.08124)
+  - Author(s): Duanyu Feng, Bowen Qin, Chen Huang, Youcheng Huang, Zheng Zhang, Wenqiang Lei
+  - Date: 2024-06
+  - Venue: -
+  - Code: [GitHub](https://github.com/colfeng/Legend)
+- [PaCE: Parsimonious Concept Engineering for Large Language Models](https://arxiv.org/abs/2406.04331)
+  - Author(s): Jinqi Luo, Tianjiao Ding, Kwan Ho Ryan Chan, Darshan Thaker, Aditya Chattopadhyay, Chris Callison-Burch, René Vidal
+  - Date: 2024-06
+  - Venue: -
+  - Code: [GitHub](https://github.com/peterljq/Parsimonious-Concept-Engineering)
+- [Improving Alignment and Robustness with Circuit Breakers](https://arxiv.org/abs/2406.04313)
+  - Author(s): Andy Zou, Long Phan, Justin Wang, Derek Duenas, Maxwell Lin, Maksym Andriushchenko, Rowan Wang, Zico Kolter, Matt Fredrikson, Dan Hendrycks
+  - Date: 2024-06
+  - Venue: -
+  - Code: [GitHub](https://github.com/blackswan-ai/circuit-breakers)
 - [ConTrans: Weak-to-Strong Alignment Engineering via Concept Transplantation](https://arxiv.org/abs/2405.13578)
   - Author(s): Weilong Dong, Xinwei Wu, Renren Jin, Shaoyang Xu, Deyi Xiong
   - Date: 2024-05
