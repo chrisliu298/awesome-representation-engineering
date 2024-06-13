@@ -89,6 +89,16 @@ Also:
 
 ### Steering vectors
 
+- [Controlling Large Language Model Agents with Entropic Activation Steering](https://arxiv.org/abs/2406.00244)
+  - Author(s): Nate Rahn, Pierluca D'Oro, Marc G. Bellemare
+  - Date: 2024-06
+  - Venue: -
+  - Code: -
+- [Adaptive Activation Steering: A Tuning-Free LLM Truthfulness Improvement Method for Diverse Hallucinations Categories](https://arxiv.org/abs/2406.00034)
+  - Author(s): Tianlong Wang, Xianfeng Jiao, Yifan He, Zhongzhi Chen, Yinghao Zhu, Xu Chu, Junyi Gao, Yasha Wang, Liantao Ma
+  - Date: 2024-06
+  - Venue: -
+  - Code: -
 - [Activation Steering for Robust Type Prediction in CodeLLMs](https://arxiv.org/abs/2404.01903)
   - Author(s): Francesca Lucchetti, Arjun Guha
   - Date: 2024-04
