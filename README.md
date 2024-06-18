@@ -36,6 +36,11 @@ Also:
 
 ### Representation engineering
 
+- [Words in Motion: Representation Engineering for Motion Forecasting](https://arxiv.org/abs/2406.11624)
+  - Author(s): Omer Sahin Tas, Royden Wagner
+  - Date: 2024-06
+  - Venue: -
+  - Code: [GitHub](https://github.com/kit-mrt/future-motion)
 - [Legend: Leveraging Representation Engineering to Annotate Safety Margin for Preference Datasets](https://arxiv.org/abs/2406.08124)
   - Author(s): Duanyu Feng, Bowen Qin, Chen Huang, Youcheng Huang, Zheng Zhang, Wenqiang Lei
   - Date: 2024-06
