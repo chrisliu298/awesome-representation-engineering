@@ -94,6 +94,11 @@ Also:
 
 ### Steering vectors
 
+- [Who's asking? User personas and the mechanics of latent misalignment](https://arxiv.org/abs/2406.12094)
+  - Author(s): Asma Ghandeharioun, Ann Yuan, Marius Guerard, Emily Reif, Michael A. Lepori, Lucas Dixon
+  - Date: 2024-06
+  - Venue: -
+  - Code: -
 - [Controlling Large Language Model Agents with Entropic Activation Steering](https://arxiv.org/abs/2406.00244)
   - Author(s): Nate Rahn, Pierluca D'Oro, Marc G. Bellemare
   - Date: 2024-06
