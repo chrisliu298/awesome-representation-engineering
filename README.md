@@ -94,6 +94,11 @@ Also:
 
 ### Steering vectors
 
+- [Steering Without Side Effects: Improving Post-Deployment Control of Language Models](https://arxiv.org/abs/2406.15518)
+  - Author(s): Asa Cooper Stickland, Alexander Lyzhov, Jacob Pfau, Salsabila Mahdi, Samuel R. Bowman
+  - Date: 2024-06
+  - Venue: -
+  - Code: [GitHub](https://github.com/AsaCooperStickland/kl-then-steer)
 - [Who's asking? User personas and the mechanics of latent misalignment](https://arxiv.org/abs/2406.12094)
   - Author(s): Asma Ghandeharioun, Ann Yuan, Marius Guerard, Emily Reif, Michael A. Lepori, Lucas Dixon
   - Date: 2024-06
