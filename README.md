@@ -94,6 +94,16 @@ Also:
 
 ### Steering vectors
 
+- [Analyzing the Generalization and Reliability of Steering Vectors](https://arxiv.org/abs/2407.12404)
+  - Author(s): Daniel Tan, David Chanin, Aengus Lynch, Dimitrios Kanoulas, Brooks Paige, Adria Garriga-Alonso, Robert Kirk
+  - Date: 2024-07
+  - Venue: -
+  - Code: -
+- [Future Events as Backdoor Triggers: Investigating Temporal Vulnerabilities in LLMs](https://arxiv.org/abs/2407.04108)
+  - Author(s): Sara Price, Arjun Panickssery, Sam Bowman, Asa Cooper Stickland
+  - Date: 2024-07
+  - Venue: -
+  - Code: -
 - [Steering Without Side Effects: Improving Post-Deployment Control of Language Models](https://arxiv.org/abs/2406.15518)
   - Author(s): Asa Cooper Stickland, Alexander Lyzhov, Jacob Pfau, Salsabila Mahdi, Samuel R. Bowman
   - Date: 2024-06
@@ -177,6 +187,11 @@ Also:
 
 ### Concept activation vectors
 
+- [TextCAVs: Debugging vision models using text](https://arxiv.org/abs/2408.08652)
+  - Author(s): Angus Nicolson, Yarin Gal, J. Alison Noble
+  - Date: 2024-08
+  - Venue: -
+  - Code: -
 - [Uncovering Safety Risks in Open-source LLMs through Concept Activation Vector](https://arxiv.org/abs/2404.12038)
   - Author(s): Zhihao Xu, Ruixuan Huang, Xiting Wang, Fangzhao Wu, Jing Yao, Xing Xie
   - Date: 2024-04
