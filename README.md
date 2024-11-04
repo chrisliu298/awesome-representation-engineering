@@ -94,6 +94,11 @@ Also:
 
 ### Steering vectors
 
+- [Steering Large Language Models using Conceptors: Improving Addition-Based Activation Engineering](https://arxiv.org/abs/2410.16314)
+  - Author(s): Joris Postmus, Steven Abreu
+  - Date: 2024-10
+  - Venue: NeurIPS 2024 ([Workshop on Foundation Model Interventions](https://sites.google.com/view/mint-2024/home))
+  - Code: -
 - [Analyzing the Generalization and Reliability of Steering Vectors](https://arxiv.org/abs/2407.12404)
   - Author(s): Daniel Tan, David Chanin, Aengus Lynch, Dimitrios Kanoulas, Brooks Paige, Adria Garriga-Alonso, Robert Kirk
   - Date: 2024-07
