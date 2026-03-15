@@ -30,6 +30,7 @@ Also:
   - [Steering vectors](#steering-vectors)
   - [Concept activation vectors](#concept-activation-vectors)
   - [Other relevant papers](#other-relevant-papers)
+- [Tools](#tools)
 - [Blog Posts](#blog-posts)
 
 ## Papers
@@ -320,6 +321,10 @@ Also:
   - Date: 2023-10
   - Venue: -
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/saprmarks/geometry-of-truth)
+
+## Tools
+
+- [PSYCTL](https://github.com/modulabs-personalab/psyctl) - Python CLI toolkit for LLM personality steering using CAA and BiPO methods. Includes standardized psychology inventory benchmarking (IPIP-NEO-120, Dark Tetrad, REI-40), layer analysis, and pre-trained steering vectors. [[Docs](https://modulabs-personalab.github.io/psyctl/)] [[Colab](https://colab.research.google.com/github/modulabs-personalab/psyctl/blob/main/examples/en/01_quickstart.ipynb)]
 
 ## Blog Posts
 
