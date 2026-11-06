@@ -124,6 +124,11 @@ Also:
 
 ### Steering vectors
 
+- [Beyond Linear Activation Steering: Invertible Latent Transformations for Controlling LLM Behavior](https://arxiv.org/abs/2606.08454)
+  - Author(s): Tuc Nguyen, Thai Le
+  - Date: 2026-06
+  - Venue: NeurIPS 2026 (Spotlight)
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nguyentuc/INNSteer)
 - [Can sparse autoencoders be used to decompose and interpret steering vectors?](https://arxiv.org/abs/2411.08790)
   - Author(s): Harry Mayne, Yushi Yang, Adam Mahdi
   - Date: 2024-11
